@@ -10,7 +10,7 @@
 - test cluster/configure environment: https://eksworkshop.com/030_eksctl/test/
 
 
-## Deploy our sample apps:
+## Deploy  sample apps:
 - deploy nodejs backend: https://eksworkshop.com/beginner/050_deploy/deploynodejs/
 ```
 cd ~/environment/ecsdemo-nodejs
