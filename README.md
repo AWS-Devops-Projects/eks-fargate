@@ -1,4 +1,5 @@
 ## Start with the eksworkshop setup:
+
 - build a cloud9 instance: https://eksworkshop.com/020_prerequisites/workspace/
 - install/configure the cli tools: https://eksworkshop.com/020_prerequisites/k8stools/
 - create iam role: https://eksworkshop.com/020_prerequisites/iamrole/
